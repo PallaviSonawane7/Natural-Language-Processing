@@ -1,2 +1,2 @@
-# Natutal-Language-Processing
+# Natural-Language-Processing
 **NLP Projects**
